@@ -459,29 +459,8 @@ footer a:hover {
     min-height: 0;
   }
   aside#sidebar a.button {
-    background-image: none;
-    width: auto;
-    height: auto;
-    display: inline-block;
-    margin-top: 15px;
-    padding: 5px 10px;
-    position: relative;
-    text-align: center;
-    font-size: 10px;
-    line-height: 1;
-    background-color: #9ddcff;
-    color: #2879d0;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;                     
-    border-radius: 5px;    
-  }
-  aside#sidebar a.button small {
-    font-size: 10px;
-    display: inline;
-  }
-/*  aside#sidebar a.button {
     display: none;
-  }*/
+  }
   #main-content h1:before,
   #main-content h2:before,
   #main-content h3:before,
