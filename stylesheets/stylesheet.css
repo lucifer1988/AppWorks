@@ -408,7 +408,7 @@ footer a:hover {
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
   .inner {
-    width: 93%;
+    width: 100%;
   }
   header {
     padding: 20px 0;
