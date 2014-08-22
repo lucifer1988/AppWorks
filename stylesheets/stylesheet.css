@@ -101,7 +101,7 @@ header h2 {
 }
 
 #main-content {
-  width: 740px;
+  width: 760px;
   float: left;
 }
 
@@ -110,7 +110,7 @@ header h2 {
 }
 
 aside#sidebar {
-  width: 150px;
+  width: 130px;
   padding-left: 20px;
   min-height: 504px;
   float: right;
@@ -202,7 +202,7 @@ hr {
 
 table {
   width: 100%;
-  border: 1px solid #000000;
+  border: 1px solid #ebebeb;
 }
 
 th {
