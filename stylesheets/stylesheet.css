@@ -101,16 +101,17 @@ header h2 {
 }
 
 #main-content {
-  width: 760px;
+  width: 770px;
   float: left;
 }
 
 #main-content img {
   max-width: 100%;
+  margin: 1px;
 }
 
 aside#sidebar {
-  width: 130px;
+  width: 120px;
   padding-left: 20px;
   min-height: 504px;
   float: right;
